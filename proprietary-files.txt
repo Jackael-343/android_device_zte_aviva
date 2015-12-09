@@ -1,0 +1,9 @@
+etc/gps-noxtra.conf
+vendor/firmware/libpn544_fw.so
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L3.so
+lib/libril.so
+lib/libril-qc-1.so
+bin/rild
